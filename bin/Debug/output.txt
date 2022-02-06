@@ -1,0 +1,16 @@
+11;22;33;o=
+11;22;33;TextimageRelation  ImageBeforeText
+11;22;33;& Behavior
+11;22;33;Autosize Tue
+11;22;33;AutoToolTip Tue
+11;22;33;“l  checkonciick False
+11;22;33;DoubleClickEnabled  False
+11;22;33;Enabled Tue
+11;22;33;ToolTipText Save
+11;22;33;Visible Tue
+11;22;33;& Data
+11;22;33;(Applicationsettings)
+11;22;33;Ty
+11;22;33;B Design
+11;22;33;Neme) toolStripButtont
+11;22;33;GenerateMember  True

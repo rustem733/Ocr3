@@ -1,0 +1,14 @@
+C:\Users\ruste\source\repos\Ocr3\bin\Release\Ocr3.exe.config
+C:\Users\ruste\source\repos\Ocr3\bin\Release\Ocr3.exe
+C:\Users\ruste\source\repos\Ocr3\bin\Release\Ocr3.pdb
+C:\Users\ruste\source\repos\Ocr3\bin\Release\Emgu.CV.Platform.NetStandard.dll
+C:\Users\ruste\source\repos\Ocr3\bin\Release\Emgu.CV.Platform.NetStandard.xml
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.csproj.AssemblyReference.cache
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.Form1.resources
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.FormText.resources
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.Properties.Resources.resources
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.csproj.GenerateResource.cache
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.csproj.CoreCompileInputs.cache
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.csproj.CopyComplete
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.exe
+C:\Users\ruste\source\repos\Ocr3\obj\Release\Ocr3.pdb
